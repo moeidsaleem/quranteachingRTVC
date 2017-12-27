@@ -1,0 +1,6 @@
+[20-Oct-2017 18:22:03 America/New_York] PHP Notice:  Undefined index: ADMIN_PANEL in /home/rajajbqa/public_html/online quran/Admin/StudentRecord.php on line 3
+[22-Oct-2017 08:03:15 America/New_York] PHP Notice:  Undefined index: ADMIN_PANEL in /home/rajajbqa/public_html/online quran/Admin/StudentRecord.php on line 3
+[04-Nov-2017 13:58:38 America/New_York] PHP Notice:  Undefined index: txtGender in /home/rajajbqa/public_html/online quran/Admin/editpage.php on line 104
+[04-Nov-2017 14:11:19 America/New_York] PHP Notice:  Undefined index: ADMIN_PANEL in /home/rajajbqa/public_html/online quran/Admin/StudentRecord.php on line 3
+[04-Nov-2017 14:13:55 America/New_York] PHP Notice:  Undefined index: ADMIN_PANEL in /home/rajajbqa/public_html/online quran/Admin/home.php on line 3
+[04-Nov-2017 14:16:01 America/New_York] PHP Notice:  Undefined index: ADMIN_PANEL in /home/rajajbqa/public_html/online quran/Admin/home.php on line 3
